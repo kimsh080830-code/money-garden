@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 250" role="img" aria-label="작은 보랏빛 꽃">
+  <path d="M80 233c5-48-5-90 7-142" fill="none" stroke="#54734e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M79 171c-19-7-32-2-41 12 19 8 31 8 41-12Zm6-40c17-20 32-25 45-16-11 19-25 28-45 16Z" fill="#7a9a61"/>
+  <g transform="translate(88 73)"><ellipse fill="#9d7ba5" rx="21" ry="13" transform="rotate(15) translate(0 -17)"/><ellipse fill="#b490ba" rx="21" ry="13" transform="rotate(87) translate(0 -17)"/><ellipse fill="#80658c" rx="21" ry="13" transform="rotate(159) translate(0 -17)"/><ellipse fill="#b08ab2" rx="21" ry="13" transform="rotate(231) translate(0 -17)"/><ellipse fill="#896d94" rx="21" ry="13" transform="rotate(303) translate(0 -17)"/><circle fill="#ead58c" r="9"/></g>
+  <path d="M48 235h63" stroke="#785f44" stroke-width="10" stroke-linecap="round"/>
+</svg>

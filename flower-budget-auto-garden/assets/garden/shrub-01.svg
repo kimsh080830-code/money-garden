@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 260" role="img" aria-label="세이지 관목">
+ <path d="M82 232c12-72 8-116 57-167m-18 161c3-58 35-96 81-138m-55 143c10-51 44-71 78-88" fill="none" stroke="#58724d" stroke-width="11" stroke-linecap="round"/>
+ <g fill="#718951"><circle cx="83" cy="109" r="40"/><circle cx="132" cy="69" r="44"/><circle cx="190" cy="102" r="47"/><circle cx="146" cy="127" r="51"/><circle cx="211" cy="145" r="36"/><circle cx="81" cy="154" r="33"/></g>
+ <g fill="#92a66c" opacity=".9"><circle cx="123" cy="94" r="24"/><circle cx="183" cy="121" r="25"/><circle cx="104" cy="153" r="19"/></g>
+ <path d="M52 235h181" stroke="#765e43" stroke-width="12" stroke-linecap="round"/>
+</svg>
