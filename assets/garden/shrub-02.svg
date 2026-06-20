@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 260" role="img" aria-label="올리브 관목">
+ <path d="M137 232c-3-56-30-99-70-142m72 140c9-65 37-104 87-148m-76 149c-12-50-53-76-91-97" fill="none" stroke="#536d4a" stroke-width="10" stroke-linecap="round"/>
+ <g fill="#687b45"><ellipse cx="74" cy="125" rx="44" ry="36"/><ellipse cx="115" cy="75" rx="45" ry="38"/><ellipse cx="165" cy="111" rx="52" ry="41"/><ellipse cx="217" cy="103" rx="40" ry="35"/><ellipse cx="193" cy="159" rx="48" ry="36"/><ellipse cx="112" cy="161" rx="47" ry="35"/></g>
+ <g fill="#8c9e60" opacity=".95"><ellipse cx="127" cy="110" rx="29" ry="24"/><ellipse cx="190" cy="128" rx="28" ry="23"/><ellipse cx="89" cy="150" rx="24" ry="20"/></g>
+ <path d="M47 235h188" stroke="#765e43" stroke-width="12" stroke-linecap="round"/>
+</svg>

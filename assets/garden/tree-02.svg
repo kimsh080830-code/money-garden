@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 390" role="img" aria-label="넓은 나무">
+ <path d="M153 350c-7-95-7-158 11-245m-9 152c-44-57-79-91-113-111m121 76c37-52 80-82 111-96" fill="none" stroke="#695039" stroke-width="28" stroke-linecap="round"/>
+ <g fill="#4f6844"><ellipse cx="84" cy="131" rx="61" ry="50"/><ellipse cx="131" cy="70" rx="66" ry="56"/><ellipse cx="192" cy="78" rx="71" ry="58"/><ellipse cx="226" cy="140" rx="62" ry="52"/><ellipse cx="157" cy="152" rx="78" ry="62"/><ellipse cx="89" cy="194" rx="49" ry="40"/></g>
+ <g fill="#728d58" opacity=".9"><ellipse cx="134" cy="111" rx="42" ry="35"/><ellipse cx="199" cy="129" rx="44" ry="36"/><ellipse cx="101" cy="172" rx="33" ry="28"/></g>
+ <path d="M53 356h191" stroke="#765e43" stroke-width="16" stroke-linecap="round"/>
+</svg>

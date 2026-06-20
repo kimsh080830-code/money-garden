@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 250" role="img" aria-label="작은 크림색 꽃">
+  <path d="M82 233c-9-51 9-98-1-147" fill="none" stroke="#516f48" stroke-width="8" stroke-linecap="round"/>
+  <path d="M79 168c-21-13-33-8-41 5 17 11 31 13 41-5Zm3-45c21-11 35-9 42 5-18 10-31 12-42-5Z" fill="#86a368"/>
+  <g transform="translate(80 66)"><ellipse fill="#ead9b4" rx="23" ry="14" transform="rotate(0) translate(0 -17)"/><ellipse fill="#f3e5c6" rx="23" ry="14" transform="rotate(60) translate(0 -17)"/><ellipse fill="#d8c394" rx="23" ry="14" transform="rotate(120) translate(0 -17)"/><ellipse fill="#f5e6c7" rx="23" ry="14" transform="rotate(180) translate(0 -17)"/><ellipse fill="#d7c092" rx="23" ry="14" transform="rotate(240) translate(0 -17)"/><ellipse fill="#f0dfbb" rx="23" ry="14" transform="rotate(300) translate(0 -17)"/><circle fill="#9c7840" r="10"/></g>
+  <path d="M48 235h63" stroke="#785f44" stroke-width="10" stroke-linecap="round"/>
+</svg>

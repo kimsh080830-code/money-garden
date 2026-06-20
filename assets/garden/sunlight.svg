@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="햇빛">
+ <g fill="none" stroke="#c9a650" stroke-width="8" stroke-linecap="round" opacity=".7"><path d="M90 8v27M90 145v27M8 90h27M145 90h27M32 32l19 19M129 129l19 19M32 148l19-19M129 51l19-19"/></g>
+ <circle cx="90" cy="90" r="43" fill="#e4c574" opacity=".8"/><circle cx="90" cy="90" r="29" fill="#f5e1a5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="차분한 흙 정원">
+  <path fill="#dfe8d9" d="M0 0h800v155c-111 24-213 18-328 4-120-15-244 8-372 47V0Z"/>
+  <path fill="#d6c7a8" d="M0 170c127-38 224-14 354 2 156 19 300-13 446 18v170H0V170Z"/>
+  <path fill="#c5af87" d="M0 238c139-35 271-16 410 5 123 18 260-24 390 2v115H0V238Z"/>
+  <path fill="none" stroke="#b69f78" stroke-width="3" stroke-linecap="round" opacity=".55" d="M40 265c92-20 180-7 253 9M373 291c92-27 180-22 332 3M92 332c108-18 190 6 282 2M513 232c98-21 176-12 248 4"/>
+  <g fill="#a58c65" opacity=".6"><circle cx="95" cy="231" r="4"/><circle cx="178" cy="294" r="3"/><circle cx="277" cy="220" r="4"/><circle cx="421" cy="324" r="3"/><circle cx="611" cy="267" r="4"/><circle cx="721" cy="319" r="3"/></g>
+</svg>
